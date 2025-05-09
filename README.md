@@ -38,6 +38,9 @@
   <a href="mailto:malabsi034@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+    <a href="https://drive.google.com/file/d/1J55IojqshriC0z-pPGqHQftAkoeUQLr_/view?usp=drive_link" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-resume-icon-download-in-svg-png-gif-file-formats--cv-portfolio-job-profile-business-vol-2-pack-icons-3384777.png?f=webp&w=512" width="48" height="46" alt="resume icon" />
+  </a>
 </div>
 
 ###
@@ -169,30 +172,39 @@ Comprehensive training focused on backend development using Java and Spring fram
 
 ### 🌐 Web Projects
 
-#### 🎓 Masaqat (مساقات) 
-![Masaqat Logo](https://github.com/mahmoud0alabsi/mahmoud0alabsi/blob/main/assets/images/logo/masaqat.png?raw=true)  
-**Role:** Full-Stack Web Developer  
-**Tech Stack:** Django, MySQL, Bootstrap, JavaScript, AJAX, Google Cloud Platform  
-An online platform that provides digital tools for student councils across Jordanian universities. Developed the platform’s backend using Django, designed and structured relational databases, and managed the full deployment on Google Cloud. Delivered an intuitive user experience with dynamic features using AJAX and Bootstrap.  
-🔗 [Website](https://masa9at.com)
-
----
-
 #### 🧬 Numenor Health — Web Platform
-![Numenor Web Logo](https://github.com/mahmoud0alabsi/mahmoud0alabsi/blob/main/assets/images/logo/numenor.png?raw=true)  
+###
+
+<div align="center">
+<img width="200px" src="https://github.com/mahmoud0alabsi/mahmoud0alabsi/blob/main/assets/logo/numenor.png?raw=true"/>
+</div>
+
+###
+
+Part of a digital longevity clinic platform. Developed the **user-facing website** using Flutter Web to allow patients to view health assessments and personalized recommendations. Additionally, built a robust **admin panel** using Django for doctors and administrators to manage user data, upload test results, and oversee dashboard content. Integrated Firebase for authentication and secure data handling.
+
 **Role:** Full-Stack Web Developer  
+
 **Tech Stack:** Flutter (Web), Django, Firebase, NoSQL  
-Part of a digital longevity clinic platform. Developed the **user-facing website** using Flutter Web to allow patients to view health assessments and personalized recommendations. Additionally, built a robust **admin panel** using Django for doctors and administrators to manage user data, upload test results, and oversee dashboard content. Integrated Firebase for authentication and secure data handling.  
+
 🔗 [Company Website](https://www.numenor.health)
 
 ---
 
-#### 💻 CodeSpace Editor *(Open Source)*  
-![CodeSpace Logo](https://github.com/mahmoud0alabsi/mahmoud0alabsi/blob/main/assets/images/logo/codespace.png?raw=true)  
-**Role:** Backend, Frontend & Collaborative Server Developer  
-**Tech Stack:** Spring Boot, React.js, Node.js, Yjs  
+#### 💻 CodeSpace Editor
+###
+
+<div align="center">
+<img width="300px" src="https://github.com/mahmoud0alabsi/mahmoud0alabsi/blob/main/assets/logo/codespace.png?raw=true"/>
+</div>
+
+###
 
 Built as a final project in the Atypon Software Engineer Training program. CodeSpace is a collaborative code editing platform that allows multiple users to edit code files simultaneously. Features include project management, branch creation, commit tracking, and real-time editing powered by Yjs. Backend APIs are built with Spring Boot, the frontend with React.js, and the collaborative editing server using Node.js and WebSocket/Yjs technology. 
+
+**Role:** Backend, Frontend & Collaborative Server Developer  
+
+**Tech Stack:** Spring Boot, React.js, Node.js, Yjs  
 
 **Repositories:** 
 [Backend](https://github.com/mahmoud0alabsi/code_space_editor) • [Frontend](https://github.com/mahmoud0alabsi/code_space_editor_react) • [Yjs Server](https://github.com/mahmoud0alabsi/code_space_editor_yjs_server)
@@ -201,11 +213,42 @@ Built as a final project in the Atypon Software Engineer Training program. CodeS
 
 ---
 
+#### 🎓 Masaqat (مساقات) 
+
+###
+
+<div align="center">
+<img width="200px" src="https://github.com/mahmoud0alabsi/mahmoud0alabsi/blob/main/assets/logo/masaqat.png?raw=true"/>
+</div>
+
+###
+
+An online platform that provides digital tools for student councils across Jordanian universities. Developed the platform’s backend using Django, designed and structured relational databases, and managed the full deployment on Google Cloud. Delivered an intuitive user experience with dynamic features using AJAX and Bootstrap.  
+
+**Role:** Full-Stack Web Developer  
+
+**Tech Stack:** Django, MySQL, Bootstrap, JavaScript, AJAX, Google Cloud Platform  
+
+🔗 [Website](https://masa9at.com)
+
+---
+
 #### 🧠 ArkenAI *(Open Source)*  
-![ArkenAI Logo](https://github.com/mahmoud0alabsi/mahmoud0alabsi/blob/main/assets/images/logo/arkenai.png?raw=true)  
-**Role:** Full-Stack Developer  
-**Tech Stack:** Django, JavaScript, SQL, OpenAI API, Google Cloud Platform  
+###
+
+<div align="center">
+<img width="200px" src="https://github.com/mahmoud0alabsi/mahmoud0alabsi/blob/main/assets/logo/arkenai.png?raw=true"/>
+</div>
+
+###
+
 An AI-powered web platform that automates the generation of medical reports from doctor-patient interactions. The system begins by transcribing audio conversations using speech-to-text processing, then preprocesses the transcript. The refined text is passed to the OpenAI API, which generates structured, human-readable medical reports. Built with Django for backend logic and API integration, JavaScript for dynamic frontend interaction, and deployed on Google Cloud for scalability and performance.  
+
+
+**Role:** Full-Stack Developer  
+
+**Tech Stack:** Django, JavaScript, SQL, OpenAI API, Google Cloud Platform 
+
 🔗 [Repository](https://github.com/mahmoud0alabsi/arkenai)
 
 
@@ -215,30 +258,68 @@ An AI-powered web platform that automates the generation of medical reports from
 ### 📱 Mobile Projects
 
 #### 🧬 Numenor Health — Mobile App
-![Numenor Mobile Logo](https://github.com/mahmoud0alabsi/mahmoud0alabsi/blob/main/assets/images/logo/numenor.png?raw=true)  
+###
+
+<div align="center">
+<img width="200px" src="https://github.com/mahmoud0alabsi/mahmoud0alabsi/blob/main/assets/logo/numenor.png?raw=true"/>
+</div>
+
+###
+
+Developed a Flutter-based mobile application to support Numenor Health’s user-facing functionality. The app enables users to view personalized health optimization plans, access processed diagnostic data, and receive tailored feedback. Integrated Firebase services for secure login and cloud-based data syncing, and applied the BLoC architecture for clean state management.
+
 **Role:** Mobile Developer  
+
 **Tech Stack:** Flutter, Firebase, BLoC, NoSQL  
-Developed a Flutter-based mobile application to support Numenor Health’s user-facing functionality. The app enables users to view personalized health optimization plans, access processed diagnostic data, and receive tailored feedback. Integrated Firebase services for secure login and cloud-based data syncing, and applied the BLoC architecture for clean state management.  
+
 🔗 [Company Website](https://www.numenor.health)
 
 ---
 
 #### 🗳️ Swtak (Your Voice) (صوتك)
-![Swtak Logo](https://github.com/mahmoud0alabsi/mahmoud0alabsi/blob/main/assets/images/logo/swtak.png?raw=true)  
 🏆 Achieved **6th place** in the **Crown Prince Government Applications Award**.
 
-**Role:** Flutter Developer  
-**Tech Stack:** Flutter, Firebase, BLoC, UI/UX  
+###
+
+<div align="center">
+<img width="200px" src="https://github.com/mahmoud0alabsi/mahmoud0alabsi/blob/main/assets/logo/swtak.png?raw=true"/>
+</div>
+
+###
+
 A civic engagement platform that empowers citizens to propose, evaluate, and vote on project related to parliamentary and municipal development. Designed to support transparent decision-making by enabling public participation and surfacing community priorities. Developed using Flutter with a focus on accessibility, responsiveness, and seamless interaction across devices.
+
+**Role:** Flutter Developer  
+
+**Tech Stack:** Flutter, Firebase, BLoC, UI/UX  
+
 🔗 [Repository](https://github.com/mahmoud0alabsi/swtak)
 
 ---
 
-#### 🛡️ Itmaan (Rest Assured) (اطمئن)
-![Itmaan Logo](https://github.com/mahmoud0alabsi/mahmoud0alabsi/blob/main/assets/images/logo/itmaan.png?raw=true)  
-**Role:** Flutter Developer  
-**Tech Stack:** Flutter, Provider, UI/UX Design  
+#### 🩺 Itmaan (Rest Assured) (اطمئن)
+###
+
+<div align="center">
+<img width="200px" src="https://github.com/mahmoud0alabsi/mahmoud0alabsi/blob/main/assets/logo/Itmaan.png?raw=true"/>
+</div>
+
+###
+
 A mobile app designed to enhance communication and transparency between hospital staff and the families of patients. Families can receive real-time updates about a patient’s status, reducing uncertainty and improving their experience during treatment. Focused on delivering a clean UI and smooth user experience using Flutter and the Provider package.  
+
+**Role:** Flutter Developer  
+
+**Tech Stack:** Flutter, Provider, UI/UX Design  
+
 🔗 [Repository](https://github.com/mahmoud0alabsi/itmaan)
 
+###
 
+## 📬 Contact Me
+
+I'm always open to new opportunities and collaborations 😊. Feel free to reach out!
+
+- 📧 Email: [malabsi034@gmail.com](mailto:malabsi034@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/mahmoud-alabsi](https://www.linkedin.com/in/mahmoud-alabsi)
+- 💻 GitHub: [github.com/mahmoud0alabsi](https://github.com/mahmoud0alabsi)
