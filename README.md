@@ -200,12 +200,7 @@ Part of a digital longevity clinic platform. Developed the **user-facing website
 
 ###
 
-<div align="center">
-  <video width="600" controls>
-    <source src="https://github.com/mahmoud0alabsi/mahmoud0alabsi/blob/main/assets/videos/cse_tour.mp4?raw=true" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+🎥 [Watch the CodeSpace Editor Tour](https://youtu.be/xTDq5a8hy6A)
 
 ###
 
