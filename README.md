@@ -153,7 +153,7 @@ Comprehensive training focused on backend development using Java and Spring fram
 
 ###
 
-<h2 align="left">GitHub insights</h2>
+<h2 align="left">GitHub Insights</h2>
 
 ###
 
@@ -207,7 +207,7 @@ Built as a final project in the Atypon Software Engineer Training program. CodeS
 **Tech Stack:** Spring Boot, React.js, Node.js, Yjs  
 
 **Repositories:** 
-[Backend](https://github.com/mahmoud0alabsi/code_space_editor) • [Frontend](https://github.com/mahmoud0alabsi/code_space_editor_react) • [Yjs Server](https://github.com/mahmoud0alabsi/code_space_editor_yjs_server)
+[Backend](https://github.com/mahmoud0alabsi/CSE-SpringBoot) • [Frontend](https://github.com/mahmoud0alabsi/CSE-React) • [Yjs Server](https://github.com/mahmoud0alabsi/CSE-yjs-server)
 
 🔗 [CodeSpace Editor](https://www.code-space.cloud)
 
