@@ -200,6 +200,15 @@ Part of a digital longevity clinic platform. Developed the **user-facing website
 
 ###
 
+<div align="center">
+  <video width="600" controls>
+    <source src="https://github.com/mahmoud0alabsi/mahmoud0alabsi/blob/main/assets/videos/cse_tour.mp4?raw=true" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+###
+
 Built as a final project in the Atypon Software Engineer Training program. CodeSpace is a collaborative code editing platform that allows multiple users to edit code files simultaneously. Features include project management, branch creation, commit tracking, and real-time editing powered by Yjs. Backend APIs are built with Spring Boot, the frontend with React.js, and the collaborative editing server using Node.js and WebSocket/Yjs technology. 
 
 **Role:** Backend, Frontend & Collaborative Server Developer  
