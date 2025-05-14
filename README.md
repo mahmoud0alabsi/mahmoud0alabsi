@@ -213,7 +213,7 @@ Built as a final project in the Atypon Software Engineer Training program. CodeS
 **Repositories:** 
 [Backend](https://github.com/mahmoud0alabsi/CSE-SpringBoot) • [Frontend](https://github.com/mahmoud0alabsi/CSE-React) • [Yjs Server](https://github.com/mahmoud0alabsi/CSE-yjs-server)
 
-🔗 [CodeSpace Editor](https://www.code-space.cloud)
+🔗 [CodeSpace Editor](https://code-space.cloud)
 
 ---
 
@@ -253,7 +253,7 @@ An AI-powered web platform that automates the generation of medical reports from
 
 **Tech Stack:** Django, JavaScript, SQL, OpenAI API, Google Cloud Platform 
 
-🔗 [Repository](https://github.com/mahmoud0alabsi/arkenai)
+🔗 [Repository](https://github.com/mahmoud0alabsi/ArkenAI-MedicalReportGenerationPlatform)
 
 
 ---
@@ -297,7 +297,7 @@ A civic engagement platform that empowers citizens to propose, evaluate, and vot
 
 **Tech Stack:** Flutter, Firebase, BLoC, UI/UX  
 
-🔗 [Repository](https://github.com/mahmoud0alabsi/swtak)
+🔗 [Repository](https://github.com/mahmoud0alabsi/Swtak-CivicEngagementPlatform)
 
 ---
 
@@ -316,7 +316,7 @@ A mobile app designed to enhance communication and transparency between hospital
 
 **Tech Stack:** Flutter, Provider, UI/UX Design  
 
-🔗 [Repository](https://github.com/mahmoud0alabsi/itmaan)
+🔗 [Repository](https://github.com/mahmoud0alabsi/Itmaan-healthcare)
 
 ###
 
