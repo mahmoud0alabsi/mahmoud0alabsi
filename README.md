@@ -237,7 +237,7 @@ An online platform that provides digital tools for student councils across Jorda
 
 ---
 
-#### 🧠 ArkenAI *(Open Source)*  
+#### 🧠 ArkenAI
 ###
 
 <div align="center">
